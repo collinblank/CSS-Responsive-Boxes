@@ -2,6 +2,12 @@
 
 Take these designs and make them into a simple website!
 
+## Collin Blank Responsive Boxes Submission Links:
+
+[Media Query 1](./medial-queries1/index.html)
+[Media Query 2](./medial-queries2/index.html)
+[Media Query 3](./medial-queries3/index.html)
+
 ## Get Started
 
 - each folder has an `index.html` and a `main.css`
@@ -9,9 +15,7 @@ Take these designs and make them into a simple website!
 - Feel free to add colors and borders to help you visualize your page
 - Remember - divs with no content, by default, have a height and width of 0. Use your dev tools and set min-height/min-width, as needed
 
-
 ### Media Query 1
-
 
 ![](./imgs/r1.png)
 
